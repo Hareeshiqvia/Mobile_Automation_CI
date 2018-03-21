@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="jars/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="jars/extentreports-2.40.2.jar"/>
+	<classpathentry kind="lib" path="jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="jars/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="jars/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="jars/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="jars/selenium-server-standalone-2.52.0.jar"/>
+	<classpathentry kind="lib" path="jars/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="jars/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="jars/java-client-4.1.2.jar"/>
+	<classpathentry kind="lib" path="jars/selenium-java-3.0.0 (1).jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [RetailBanking]">
+  <test name="Login Test(failed)">
+    <classes>
+      <class name="com.appscriptmobile.iqvia.testcases.LoginTest">
+        <methods>
+          <include name="doLogin" invocation-numbers="0 1 2 3 4 5"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.appscriptmobile.iqvia.testcases.LoginTest -->
+    </classes>
+  </test> <!-- Login Test(failed) -->
+</suite> <!-- Failed suite [RetailBanking] -->

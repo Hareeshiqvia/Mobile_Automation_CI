@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [FlipKart Project]">
+  <test name="Find Right Mobile Test(failed)">
+    <classes>
+      <class name="com.unisys.pom.retailbanking.LoginTest">
+        <methods>
+          <include name="loginTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.unisys.pom.retailbanking.LoginTest -->
+    </classes>
+  </test> <!-- Find Right Mobile Test(failed) -->
+</suite> <!-- Failed suite [FlipKart Project] -->

@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="RetailBanking">
+	
+	
+	<test name="Login Test" allow-return-values="true">
+		<classes>
+			<class name="com.appscriptmobile.iqvia.testcases.LoginTest" />
+		</classes>
+	</test>	
+</suite>
+
